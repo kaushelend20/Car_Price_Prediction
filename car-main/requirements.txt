@@ -1,0 +1,7 @@
+requests
+flask
+flask_cors
+Scikit-learn
+pandas
+numpy
+gunicorn
